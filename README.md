@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Olá, eu sou a Jonathan Silva!
+## Olá, eu sou o Jonathan!
 <div align="center">
   <a href="https://github.com/jonathandvv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathandvv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
