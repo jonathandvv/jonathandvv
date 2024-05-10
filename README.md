@@ -1,6 +1,5 @@
 ## Olá, eu sou o Jonathan. Bem vindo ao meu GitHub! 😄
 
-- 🔭 Atualmente trabalho na CBYK
 - 🌱 Tenho estudado e me dedicado a Arquitetura de Software
 - 🤔 Posso colaborar com conhecimentos em .NET
 
